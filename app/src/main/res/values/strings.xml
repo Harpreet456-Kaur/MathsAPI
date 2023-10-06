@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MathsAPI</string>
+    <string name="POST">POST</string>
+</resources>
